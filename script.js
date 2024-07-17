@@ -20,6 +20,7 @@ btn.addEventListener("click", function () {
                     <i class="fa-solid" fa-volume-high"></i>
                 </button>
             </div>
+            
 
             <div class="detail">
                 <p>${data[0].meanings[0].partOfSpeech} </p>
